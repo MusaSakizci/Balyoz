@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #coding:utf8
-# Autor by: Musa Sakizci 2017 
+# Author by: Musa Sakizci 2017 
 from gtts import gTTS
 from wordlist import words
 
