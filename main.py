@@ -7,7 +7,7 @@ from wordlist import words
 
 def Main():
     x = -1
-    while(x<5):
+    while(x<60):
         x +=1
         word = words[x]
         print word    
