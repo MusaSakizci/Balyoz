@@ -1,5 +1,5 @@
 #-*-coding:UTF-8-*-
-# Autor by: Musa Sakizci 2017 
+#  Author by: Musa Sakizci 2017 
 
 
 
